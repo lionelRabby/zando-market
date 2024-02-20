@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.titre{
+    background-color: #89bdb9;
+}
+.titre h1{
+    padding: 15px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.paragraphe {
+    background-image: url(image_1.jpg);
+    margin-top: 30px;
+    padding-bottom: 100px;
+    margin-left: 1px;
+    padding-top: 40px;
+}
+.paragraphe p{
+    background-color: rgba(240, 239, 239, 0.329);
+    width: 500px;
+    margin-left: 130px;
+    font-weight: bold;
+    padding: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.paragraphe2 {
+    background-color: #89bdb9;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 370px;
+    padding: 40px;
+    font-size: 20px;
+}
+h2{
+    background-color:rgb(2, 41, 43) ;
+    margin-top: 49px;
+    text-align: center;
+    width: 400px;
+    margin-left: 500px;
+    padding: 10px;
+    color: antiquewhite;
+}
+.image2 {
+       display: flex;
+       margin-top: -330px;
+       margin-left: -90px;
+       
+}
+.image3 {
+      display: flex;
+      margin-top: 150px;
+      margin-left: 1180px;
+
+}
+.boite1 {
+    height: 130px;
+    width: 250px;
+    border: solid;
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 200px;
+ 
+ }
+ .boite1 p:nth-child(1) {
+     border-bottom: 2px solid rgb(17, 2, 2);
+     text-align: center;
+ }
+ .boite1 p:nth-child(2) {
+     text-align: center;
+     line-height: 25px;
+     font-size: 19px;
+     margin-top: 17px;
+ }
+ .boite2 {
+    height: 130px;
+    width: 250px;
+    border: solid rgb(101, 184, 18);
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: -100px;
+ 
+ }
+ .boite2 p:nth-child(1) {
+     border-bottom: 2px solid rgb(17, 2, 2);
+     text-align: center;
+ }
+ .boite2 p:nth-child(2) {
+     text-align: center;
+     line-height: 25px;
+     font-size: 19px;
+     margin-top: 17px;
+ }
+ .boite3 {
+    height: 130px;
+    width: 250px;
+    border: solid rgb(117, 156, 228);
+    position: absolute;
+    margin-top: 1050px;
+
+ 
+ }
+ .boite3 p:nth-child(1) {
+     border-bottom: 2px solid rgb(17, 2, 2);
+     text-align: center;
+ }
+ .boite3 p:nth-child(2) {
+     text-align: center;
+     line-height: 25px;
+     font-size: 19px;
+     margin-top: 17px;
+ }
+ #id-1{
+     left:50%;
+ }
+ #id-2{
+     right: 40px;
+     left:60%;
+     top: 15px;
+ }
+ #id-3{
+     right: 30px;
+     left: 20%;
+     top: 32px;
+ 
+ }
+.paragraphe3{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 400px;
+    padding: 5px;
+    font-size: 15px;
+}
+@media  () {
+    
+}
